@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(68, 67, 67);
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-family: 'Bebas Neue';
+}
